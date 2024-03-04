@@ -14,11 +14,12 @@
     Frontend is written in ReactJS
     Frontend server starts at port 3000
     
-        ## How to run
+        ## install following packages 
             1. Make sure you have node version 14.17.0 installed (optional)
-            2. npm install
-            3. npm install react
-            4. npm install -g react-scripts
+            2. apt install npm -y
+            3. npm install
+            4. npm install react
+            5. npm install -g react-scripts
 
             
                       apt install git
@@ -28,8 +29,6 @@
                       cd docker-Nodejs/
                       ls
                       cd frontend/
-                      ls
-                      apt install npm -y
                       ls
                       npm start
                       ls
