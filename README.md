@@ -15,6 +15,28 @@
     Frontend server starts at port 3000
     
         ## How to run
-            1. Make sure you have node version 14.17.0 installed
+            1. Make sure you have node version 14.17.0 installed (optional)
             2. npm install
-            3. npm start
+            3. npm install react
+            4. npm install -g react-scripts
+
+            
+                      apt install git
+                      ls
+                      git clone https://github.com/pranaypatil01/docker-Nodejs.git
+                      ls
+                      cd docker-Nodejs/
+                      ls
+                      cd frontend/
+                      ls
+                      apt install npm -y
+                      ls
+                      npm start
+                      ls
+                      npm start
+                      npm fund
+                      npm start
+                      npm start
+                      hit ip address
+                  
+
