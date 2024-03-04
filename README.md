@@ -11,13 +11,14 @@
         3. DB_HOST=<POSTGRES_HOST> DB_USER=<POSTGRES_USER> DB_PASSWORD=<POSTGRES_PASSWORD> DB_NAME=<POSTGRES_DB_NAME> DB_PORT=<POSTGRES_PORT> ALLOWED_ORIGINS=<ALLOWED_ORGINS_VALUE> go run main.go
 
 # Frontend
+
+  # simple way - first install npm then run cmd npm install react then run cmd npm install -g react-scripts then go to frontend folder and run cmd npm start done !!
     Frontend is written in ReactJS
     Frontend server starts at port 3000
     
         ## install following packages 
             1. Make sure you have node version 14.17.0 installed (optional)
             2. apt install npm -y
-            3. npm install
             4. npm install react
             5. npm install -g react-scripts
 
